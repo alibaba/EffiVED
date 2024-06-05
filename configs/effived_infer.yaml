@@ -1,0 +1,19 @@
+TASK_TYPE: inference_videoedit_entrance
+use_fp16: True
+guide_scale: 9.5
+use_fp16: True
+chunk_size: 2
+decoder_bs: 2
+max_frames: 14
+target_fps: 16      # FPS Conditions, not encoding fps
+scale: 8
+batch_size: 1
+use_zero_infer: True 
+# For important input
+round: 4
+seed: 234
+test_list_path: data/test_edit.txt
+vldm_cfg: configs/t2v_train.yaml
+origin_data_dir: data/eval/videos
+#test_model: modelscope-damo-text-to-video-synthesis/text2video_pytorch_model.pth
+test_model: checkpoints/non_ema_00011000.pth
