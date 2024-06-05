@@ -86,6 +86,6 @@ Please cite this paper if you find the code is useful for your research:
 ## Shoutouts
 
 - [I2VGen-XL](https://github.com/ali-vilab/i2vgen-xl)
-- [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix
+- [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 - [CoDeF](https://github.com/qiuyu96/CoDeF)
 
