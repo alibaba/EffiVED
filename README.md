@@ -3,8 +3,8 @@
 Arxiv Link: https://arxiv.org/abs/2403.11568
 
 
-|Origin Videos & Editing Videos| Instrctuion|  |
-| --------------- | --------------- | -------- |
+|Origin Videos & Editing Videos| Instrctuion|
+| --------------- | --------------- |
 |  ![Input image](assets/1.gif)  |  Turn the rabbit into a fox.|
 |  ![Input image](assets/2.gif)  |   make it Van Gogh style|
 |  ![Input image](assets/3.gif)  |  make it a white fox in the desert trail|
@@ -86,6 +86,6 @@ Please cite this paper if you find the code is useful for your research:
 ## Shoutouts
 
 - [I2VGen-XL](https://github.com/ali-vilab/i2vgen-xl)
-- [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
+- [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix
 - [CoDeF](https://github.com/qiuyu96/CoDeF)
 
